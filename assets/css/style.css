@@ -1,0 +1,9 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#page-holder {
+    padding: 15px;
+}
