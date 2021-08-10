@@ -1,8 +1,5 @@
 <?php
-//inc
-///22
-//44
-//33
+//includew
 include "./incl/core.php";
 
 if(isset($_POST['addNewInvoice'])){
